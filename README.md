@@ -29,6 +29,7 @@ _Markdown Itálico_
 **Tabela de melhores séries:**
 Num | Nome | Nota | Ano | Foto
 --- | --- | --- | --- | ---
+1 | The Boys | 10 | 2019 | ![the boys2](https://user-images.githubusercontent.com/83453859/180448810-230e79ca-6dcd-496e-aad2-9de6a42ad848.jpg)
 1 | Stranger Things | 10 | 2016 | ![strangerthings](https://user-images.githubusercontent.com/83453859/178116628-430f2e68-d383-465d-b407-974ad0147dd1.jpg)
 2 | Loki | 9,5 | 2021 | ![loki2 (3)](https://user-images.githubusercontent.com/83453859/178116893-e523fd22-1a71-4853-bcc5-0326ea03f72f.jpg)
 3 | MoonKnight | 9 | 2022 | ![Cavaleiro-da-Lua-2-360x202](https://user-images.githubusercontent.com/83453859/178117033-ad2117aa-4147-47f5-aa63-7788b672cb8f.jpg)
